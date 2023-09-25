@@ -17,7 +17,7 @@ This is a front-end coding challenge completed for [Frontend Mentor](https://www
 - Styled using CSS with a consistent and modern design.
 
 ## Live Demo 🚀
-[product-preview-card-component-003.netlify.app](https://product-preview-card-component-003.netlify.app/)
+[Product Preview Card Component](https://product-preview-card-component-003.netlify.app/)
 
 ## Screenshots 📷
 ![desktop-design](./design/desktop-design-final.PNG)
