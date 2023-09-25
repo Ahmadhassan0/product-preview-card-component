@@ -16,6 +16,9 @@ This is a front-end coding challenge completed for [Frontend Mentor](https://www
 - Uses semantic HTML for better accessibility.
 - Styled using CSS with a consistent and modern design.
 
+## Live Demo 🚀
+[product-preview-card-component-003.netlify.app](https://product-preview-card-component-003.netlify.app/)
+
 ## Screenshots 📷
 ![desktop-design](./design/desktop-design-final.PNG)
 ![mobile-design](./design/mobile-design-final.PNG)
